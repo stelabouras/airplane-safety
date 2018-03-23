@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="424px" height="424px" viewBox="0 0 424 424" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>markdown</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="92 0 257 0 257 336 0 336 0 88"></polygon>
+        <polygon id="path-2" points="92 0 257 0 257 336 0 336 0 88"></polygon>
+        <polygon id="path-3" points="96 8 96 96 4 96"></polygon>
+    </defs>
+    <g id="markdown" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(83.500000, 44.000000)">
+            <g id="Rectangle-5">
+                <use fill="#2E7BCF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <path stroke="#FFFFFF" stroke-width="10" d="M94.0062866,5 L5,90.136448 L5,331 L252,331 L252,5 L94.0062866,5 Z"></path>
+            </g>
+        </g>
+        <g id="Group-2" opacity="0.1" transform="translate(84.273438, 69.000000)" stroke="#FFFFFF" stroke-linecap="square" stroke-width="3">
+            <path d="M0.855925008,291 L256.880718,291" id="Line-2-Copy-24"></path>
+            <path d="M0.855925008,272 L256.880718,272" id="Line-2-Copy-23"></path>
+            <path d="M0.855925008,253 L256.880718,253" id="Line-2-Copy-22"></path>
+            <path d="M0.855925008,234 L256.880718,234" id="Line-2-Copy-21"></path>
+            <path d="M0.855925008,215 L256.880718,215" id="Line-2-Copy-20"></path>
+            <path d="M0.855925008,196 L256.880718,196" id="Line-2-Copy-19"></path>
+            <path d="M0.855925008,177 L256.880718,177" id="Line-2-Copy-18"></path>
+            <path d="M0.855925008,158 L256.880718,158" id="Line-2-Copy-17"></path>
+            <path d="M0.855925008,139 L256.880718,139" id="Line-2-Copy-16"></path>
+            <path d="M0.855925008,120 L256.880718,120" id="Line-2-Copy-15"></path>
+            <path d="M0.855925008,101 L256.880718,101" id="Line-2-Copy-14"></path>
+            <path d="M0.855925008,82 L256.880718,82" id="Line-2-Copy-13"></path>
+            <path d="M0.855925008,63 L256.880718,63" id="Line-2-Copy-12"></path>
+            <path d="M0.855925008,44 L256.880718,44" id="Line-2-Copy-11"></path>
+            <path d="M0.855925008,25 L256.880718,25" id="Line-2-Copy-10"></path>
+            <path d="M0.855925008,6 L256.880718,6" id="Line-2-Copy-9"></path>
+        </g>
+        <g id="Group-3" opacity="0.1" transform="translate(121.000000, 56.000000)" stroke="#FFFFFF" stroke-linecap="square" stroke-width="3">
+            <path d="M185.5,0.5 L185.5,311.5" id="Line-Copy-23"></path>
+            <path d="M162.5,0.5 L162.5,311.5" id="Line-Copy-22"></path>
+            <path d="M139.5,0.5 L139.5,311.5" id="Line-Copy-21"></path>
+            <path d="M116.5,0.5 L116.5,311.5" id="Line-Copy-20"></path>
+            <path d="M93.5,0.5 L93.5,311.5" id="Line-Copy-19"></path>
+            <path d="M70.5,0.5 L70.5,311.5" id="Line-Copy-18"></path>
+            <path d="M47.5,0.5 L47.5,311.5" id="Line-Copy-17"></path>
+            <path d="M24.5,0.5 L24.5,311.5" id="Line-Copy-16"></path>
+            <path d="M1.5,0.5 L1.5,311.5" id="Line-Copy-15"></path>
+        </g>
+        <g id="Group-Copy" transform="translate(83.500000, 44.000000)">
+            <g id="Rectangle-5" stroke-width="10">
+                <path stroke="#FFFFFF" d="M94.0062866,5 L5,90.136448 L5,331 L252,331 L252,5 L94.0062866,5 Z"></path>
+                <path stroke="#2879D2" d="M89.9937134,-5 L262,-5 L262,341 L-5,341 L-5,85.863552 L89.9937134,-5 Z"></path>
+            </g>
+            <g id="Path-Copy">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <path stroke="#FFFFFF" stroke-width="20" d="M86,31.4033308 L28.9216641,86 L86,86 L86,31.4033308 Z"></path>
+            </g>
+        </g>
+        <g id="Markdown-mark" transform="translate(164.132353, 191.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Shape" points="0 42 0 0 12.3529412 0 24.7058824 15.4411765 37.0588235 0 49.4117647 0 49.4117647 42 37.0588235 42 37.0588235 17.9117647 24.7058824 33.3529412 12.3529412 17.9117647 12.3529412 42"></polygon>
+            <polygon id="Shape" points="77.2058824 42 58.6764706 21.6176471 71.0294118 21.6176471 71.0294118 0 83.3823529 0 83.3823529 21.6176471 95.7352941 21.6176471"></polygon>
+        </g>
+    </g>
+</svg>

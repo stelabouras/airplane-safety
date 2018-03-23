@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1019px" height="930px" viewBox="0 0 1019 930" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Fig2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Fig2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path-4" stroke="#ADADAD" stroke-width="17" fill="#C4C4C4" points="489.5 609.3125 1225.5 360.3125 597.5 360.3125 509.5 -278.6875 410.5 360.3125 -206.5 360.3125"></polygon>
+        <circle id="Oval-2" stroke="#ADADAD" stroke-width="17" fill="#C4C4C4" cx="509.5" cy="446.46875" r="349"></circle>
+        <path d="M224.105546,586.629189 C127.731857,586.629189 49.6055463,664.7555 49.6055463,761.129189" id="Oval-2-Copy-3" stroke="#ADADAD" stroke-width="17" transform="translate(136.855546, 673.879189) scale(1, -1) rotate(-70.000000) translate(-136.855546, -673.879189) "></path>
+        <path d="M970.61711,586.629189 C874.243421,586.629189 796.11711,664.7555 796.11711,761.129189" id="Oval-2-Copy-4" stroke="#ADADAD" stroke-width="17" transform="translate(883.367110, 673.879189) scale(-1, -1) rotate(-70.000000) translate(-883.367110, -673.879189) "></path>
+        <polygon id="Path-3" stroke="#979797" stroke-width="17" points="559.777344 229.46875 693.277344 229.46875 826.777344 491.46875 559.777344 491.46875"></polygon>
+        <polygon id="Path-3-Copy" stroke="#979797" stroke-width="17" transform="translate(325.722656, 360.468750) scale(-1, 1) translate(-325.722656, -360.468750) " points="192.222656 229.46875 325.722656 229.46875 459.222656 491.46875 192.222656 491.46875"></polygon>
+        <polygon id="Triangle" stroke="#CB573F" stroke-width="6" fill="#F7FF00" stroke-linecap="round" stroke-linejoin="bevel" transform="translate(599.500000, 655.343750) rotate(180.000000) translate(-599.500000, -655.343750) " points="599.5 423.34375 654 576.365027 610 576.365027 610 887.34375 585 887.34375 585 576.365027 545 576.365027"></polygon>
+        <polygon id="Triangle-Copy" stroke="#CB573F" stroke-width="6" fill="#F7FF00" stroke-linecap="round" stroke-linejoin="bevel" transform="translate(416.722656, 655.343750) rotate(180.000000) translate(-416.722656, -655.343750) " points="416.722656 423.34375 471.222656 576.365027 427.222656 576.365027 427.222656 887.34375 402.222656 887.34375 402.222656 576.365027 362.222656 576.365027"></polygon>
+        <polygon id="Triangle-Copy-2" stroke="#CB573F" stroke-width="4.19999993" fill="#F7FF00" stroke-linecap="round" stroke-linejoin="bevel" transform="translate(192.222656, 714.744425) rotate(235.000000) translate(-192.222656, -714.744425) " points="192.222656 628.489704 230.372656 685.381116 199.572656 685.381116 199.572656 800.999145 182.072656 800.999145 182.072656 685.381116 154.072657 685.381116"></polygon>
+        <polygon id="Triangle-Copy-3" stroke="#CB573F" stroke-width="4.19999993" fill="#F7FF00" stroke-linecap="round" stroke-linejoin="bevel" transform="translate(826.777344, 714.744425) scale(-1, 1) rotate(235.000000) translate(-826.777344, -714.744425) " points="826.777344 628.489704 864.927343 685.381116 834.127344 685.381116 834.127344 800.999145 816.627344 800.999145 816.627344 685.381116 788.627344 685.381116"></polygon>
+    </g>
+</svg>

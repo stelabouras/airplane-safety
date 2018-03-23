@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="925px" height="930px" viewBox="0 0 925 930" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Fig4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Fig4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path-4" stroke="#ADADAD" stroke-width="17" fill="#C4C4C4" points="442.5 627.84375 1178.5 378.84375 550.5 378.84375 462.5 -260.15625 363.5 378.84375 -253.5 378.84375"></polygon>
+        <circle id="Oval-2" stroke="#ADADAD" stroke-width="17" fill="#C4C4C4" cx="462.5" cy="465" r="349"></circle>
+        <polygon id="Path-3" stroke="#979797" stroke-width="17" points="512.777344 248 646.277344 248 779.777344 510 512.777344 510"></polygon>
+        <polygon id="Path-3-Copy" stroke="#979797" stroke-width="17" transform="translate(278.722656, 379.000000) scale(-1, 1) translate(-278.722656, -379.000000) " points="145.222656 248 278.722656 248 412.222656 510 145.222656 510"></polygon>
+        <path d="M412,505 L252.5,970.5" id="Line" stroke="#979797" stroke-width="16" stroke-dasharray="10,10,10,10"></path>
+        <path d="M516,516 L601.5,935.5" id="Line-2" stroke="#979797" stroke-width="16" stroke-dasharray="10,10,10,10"></path>
+        <path d="M645,241 L1027,1015" id="Line-3" stroke="#979797" stroke-width="16" stroke-dasharray="10,10,10,10"></path>
+        <path d="M273,256 L-89,982" id="Line-4" stroke="#979797" stroke-width="16" stroke-dasharray="10,10"></path>
+        <polygon id="Triangle" stroke="#CB573F" stroke-width="6" fill="#F7FF00" stroke-linecap="round" stroke-linejoin="bevel" transform="translate(680.524523, 640.546143) rotate(162.000000) translate(-680.524523, -640.546143) " points="680.524523 408.546143 735.024523 561.56742 691.024523 561.56742 691.024523 872.546143 666.024523 872.546143 666.024523 561.56742 626.024523 561.56742"></polygon>
+        <polygon id="Triangle-Copy" stroke="#CB573F" stroke-width="6" fill="#F7FF00" stroke-linecap="round" stroke-linejoin="bevel" transform="translate(237.024523, 640.546143) scale(-1, 1) rotate(162.000000) translate(-237.024523, -640.546143) " points="237.024523 408.546143 291.524523 561.56742 247.524523 561.56742 247.524523 872.546143 222.524523 872.546143 222.524523 561.56742 182.524523 561.56742"></polygon>
+    </g>
+</svg>

@@ -1,0 +1,302 @@
+\PassOptionsToPackage{unicode=true}{hyperref} % options for packages loaded elsewhere
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provides euro and other symbols
+\else % if luatex or xelatex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage[]{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\usepackage{hyperref}
+\hypersetup{
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+
+\date{}
+
+\begin{document}
+
+\hypertarget{airplane-safety}{%
+\section{Airplane Safety}\label{airplane-safety}}
+
+\hypertarget{abstract}{%
+\subsection{Abstract}\label{abstract}}
+
+I should begin by stating that I am not a mechanic, but a high-school
+Physics professor.
+
+After a couple of recent tragic airplane accidents, which are pretty
+rare but when they occur they can be quite shocking as the chance of
+survival is next to zero, I have put some thought on how the loss of
+human lives can be minimized.
+
+Unfortunately, the engines and some of the aircraft subsystems can
+malfunction or stop operating entirely. Most of these parts are
+essential for the flight operation, thus the loss of these parts
+certainly puts the whole aircraft at risk.
+
+The best option is fixing those issues during flight, which can be a
+really challenging but not totally infeasible task, and this should be
+the end goal for airplane safety.
+
+Until this goal is fulfilled though, there must be a way both passengers
+and crew can be saved in the unfortunate event of an airplane
+malfunction.
+
+\hypertarget{ideas---proposals}{%
+\subsection{Ideas - Proposals}\label{ideas---proposals}}
+
+\hypertarget{first-idea}{%
+\subsubsection{First idea}\label{first-idea}}
+
+\textbf{``Complete rescue of the airplane''}
+
+An Airbus A320 has a maximum take-off weight of approximately 75 tons
+and a maximum fuel weight of 19 tons, meaning that not counting the fuel
+we would need to land approximately 56 tons.
+
+The solution can be a series of the top-of-the-line parachutes in
+various places in the aircraft (3 to 7 parachutes across the length of
+the fuselage and one at each engine) and airbags beneath the fuselage,
+which is really close to the mechanism that some smaller aircrafts
+already have (e.g.~Cirrus). (Fig 1)
+
+\begin{figure}
+\centering
+\includegraphics{figures/Fig1.pdf}
+\caption{Figure 1}
+\end{figure}
+
+This idea can be quite hard for large aircrafts -due to the weight- but
+not infeasible.
+
+\hypertarget{second-idea}{%
+\subsubsection{Second Idea}\label{second-idea}}
+
+\textbf{``Detachable cabin''}
+
+The idea of the detachable cabin, in other words the detachment of the
+lower part of the fuselage from the rest of the aircraft, is a solution
+that can be applied, but again the weight is significant and also it
+would be extremely challenging to detach the lower part of the fuselage
+if the aircraft had taken a vertical course.
+
+\hypertarget{third-idea}{%
+\subsubsection{Third Idea}\label{third-idea}}
+
+\textbf{The recommended one}
+
+Because of the reasons explained above, the first two ideas might sound
+really difficult to implement. With that in mind, it is probably
+preferable for passengers to sit in ``chambers'' that host 6 to 12
+people, which -in case of an emergency- will be detached from the
+aircraft, after being automatically and securely airlocked.
+
+Due to the existence of side and back wings, those chambers should
+probably be detached not horizontally, but either vertically down, or
+sideways to the front-down direction, so that there is no need for
+strong chamber launch mechanisms.
+
+For the first case, where the chambers will fall vertically, this can be
+achieved by opening the hatches below, just like the hatches found in
+bomber warplanes, and the chambers can be detached in couples, so that
+the airplane can remain rigid and stable. (Fig 2, 3)
+
+\begin{figure}
+\centering
+\includegraphics{figures/Fig2.pdf}
+\caption{Figure 2}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics{figures/Fig3.pdf}
+\caption{Figure 3}
+\end{figure}
+
+For the second case, where the chambers will fall sideways to the
+front-down direction, the hatches will open while moving downwards
+tangentially to the fuselage and the chambers can slide down on rails,
+after being detached. Due to the fact that the aircraft might be falling
+vertically, it might be a good idea to use a simple mechanical apparatus
+that will launch the chamber (e.g.~using compressed springs). (Fig 4)
+
+\begin{figure}
+\centering
+\includegraphics{figures/Fig4.pdf}
+\caption{Figure 4}
+\end{figure}
+
+From the moment the chambers (around 15) will be detached, which lasts
+for about a minute, the last people to be ejected using a similar
+mechanism, will be the pilots. From there on, the problem becomes
+landing the aircraft with the least amount of damages, using the
+mechanisms described in the first idea.
+
+\hypertarget{details}{%
+\subsection{Details}\label{details}}
+
+\hypertarget{passenger-chambers}{%
+\subsubsection{``Passenger chambers''}\label{passenger-chambers}}
+
+Each chamber will host two parachutes which will open five (5) seconds
+after detaching the chamber from the aircraft, with two layers of
+airbags (Fig 5), which will fill up via a pump powered by a winged
+system that will be activated due to the fall of the chamber. Using a
+positioning system, each chamber will also provide its location to a
+satellite.
+
+\begin{figure}
+\centering
+\includegraphics{figures/Fig5.pdf}
+\caption{Figure 5}
+\end{figure}
+
+\hypertarget{chamber-detachment-mechanisms}{%
+\subsubsection{``Chamber detachment''
+mechanisms}\label{chamber-detachment-mechanisms}}
+
+Due to the fact that the aircraft electronic systems might stop
+operating, the mechanisms have to be mechanical where applicable, and
+any basic functionality should be able to be completed just by using
+``one and only lever''.
+
+This means that, each chamber should include:
+
+\begin{itemize}
+\tightlist
+\item
+  One lever to secure its front and back doors,
+\item
+  One lever to detach itself,
+\item
+  One lever to open the parachutes and
+\item
+  One lever to open the airbag.
+\end{itemize}
+
+As there have been cases where the pilots deliberately crashed the
+airplane to the ground, there is probably need for those mechanisms to
+be controlled from the airplane control tower as well, electrically
+using radio-waves.
+
+As mentioned before, in the mechanism to fill the airbag, the system
+that is responsible to broadcast the location of the chamber should also
+include a battery-backed generator which will be powered by a winged
+system, while the chamber is falling.
+
+\hypertarget{levers-to-secure-the-chambers}{%
+\paragraph{Levers to Secure the
+Chambers}\label{levers-to-secure-the-chambers}}
+
+Those levers will close and secure the sliding doors that will
+connect/divide the chambers from one another.
+
+\hypertarget{lever-to-detach-the-chamber}{%
+\paragraph{Lever to Detach the
+Chamber}\label{lever-to-detach-the-chamber}}
+
+This lever will have a dual role:
+
+\begin{itemize}
+\tightlist
+\item
+  It should open the appropriate hatch and
+\item
+  It should release the chamber from the aircraft, so that, with the
+  help of the chamber launch mechanism, the chamber will be separated
+  from the aircraft.
+\end{itemize}
+
+\hypertarget{parachute-levers}{%
+\paragraph{Parachute levers}\label{parachute-levers}}
+
+This lever will open the parachute almost at the same time, so that the
+chamber will stabilize soon after getting detached from the aircraft.
+
+\hypertarget{airbag-lever}{%
+\paragraph{Airbag lever}\label{airbag-lever}}
+
+This lever will expose a small winged system outside the chamber, which
+will power the airbag and the position tracking subsystems.
+
+\hypertarget{chamber-subsystems}{%
+\subsubsection{Chamber subsystems}\label{chamber-subsystems}}
+
+\begin{itemize}
+\tightlist
+\item
+  After the lever to secure the chamber is used, along with the sliding
+  doors, the air conditioning system should be disabled as there is no
+  need to be enabled for the limited amount of time that the chamber
+  will be falling.
+\item
+  Furthermore, a pressure valve must always check and control the
+  pressure of the chamber.
+\end{itemize}
+
+\hypertarget{conclusion}{%
+\subsection{Conclusion}\label{conclusion}}
+
+I am aware that all of the above ideas might not be feasible and they
+may be forgotten.
+
+If, however, they are of interest, I will always remain at your
+disposal.
+
+In any case, I hope that they will convey the need for more secure
+flights to the aircraft safety mechanics, so that maybe some ideas will
+be implemented for the sake of humanity.
+
+\textbf{Panagiotis S. Petrakis}
+
+\end{document}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="424px" height="424px" viewBox="0 0 424 424" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>pdf</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="92 0 257 0 257 336 0 336 0 88"></polygon>
+        <polygon id="path-2" points="92 0 257 0 257 336 0 336 0 88"></polygon>
+        <polygon id="path-3" points="96 8 96 96 4 96"></polygon>
+    </defs>
+    <g id="pdf" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(83.500000, 44.000000)">
+            <g id="Rectangle-5">
+                <use fill="#2E7BCF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <path stroke="#FFFFFF" stroke-width="10" d="M94.0062866,5 L5,90.136448 L5,331 L252,331 L252,5 L94.0062866,5 Z"></path>
+            </g>
+        </g>
+        <g id="Group-2" opacity="0.1" transform="translate(84.273438, 69.000000)" stroke="#FFFFFF" stroke-linecap="square" stroke-width="3">
+            <path d="M0.855925008,291 L256.880718,291" id="Line-2-Copy-24"></path>
+            <path d="M0.855925008,272 L256.880718,272" id="Line-2-Copy-23"></path>
+            <path d="M0.855925008,253 L256.880718,253" id="Line-2-Copy-22"></path>
+            <path d="M0.855925008,234 L256.880718,234" id="Line-2-Copy-21"></path>
+            <path d="M0.855925008,215 L256.880718,215" id="Line-2-Copy-20"></path>
+            <path d="M0.855925008,196 L256.880718,196" id="Line-2-Copy-19"></path>
+            <path d="M0.855925008,177 L256.880718,177" id="Line-2-Copy-18"></path>
+            <path d="M0.855925008,158 L256.880718,158" id="Line-2-Copy-17"></path>
+            <path d="M0.855925008,139 L256.880718,139" id="Line-2-Copy-16"></path>
+            <path d="M0.855925008,120 L256.880718,120" id="Line-2-Copy-15"></path>
+            <path d="M0.855925008,101 L256.880718,101" id="Line-2-Copy-14"></path>
+            <path d="M0.855925008,82 L256.880718,82" id="Line-2-Copy-13"></path>
+            <path d="M0.855925008,63 L256.880718,63" id="Line-2-Copy-12"></path>
+            <path d="M0.855925008,44 L256.880718,44" id="Line-2-Copy-11"></path>
+            <path d="M0.855925008,25 L256.880718,25" id="Line-2-Copy-10"></path>
+            <path d="M0.855925008,6 L256.880718,6" id="Line-2-Copy-9"></path>
+        </g>
+        <g id="Group-3" opacity="0.1" transform="translate(121.000000, 56.000000)" stroke="#FFFFFF" stroke-linecap="square" stroke-width="3">
+            <path d="M185.5,0.5 L185.5,311.5" id="Line-Copy-23"></path>
+            <path d="M162.5,0.5 L162.5,311.5" id="Line-Copy-22"></path>
+            <path d="M139.5,0.5 L139.5,311.5" id="Line-Copy-21"></path>
+            <path d="M116.5,0.5 L116.5,311.5" id="Line-Copy-20"></path>
+            <path d="M93.5,0.5 L93.5,311.5" id="Line-Copy-19"></path>
+            <path d="M70.5,0.5 L70.5,311.5" id="Line-Copy-18"></path>
+            <path d="M47.5,0.5 L47.5,311.5" id="Line-Copy-17"></path>
+            <path d="M24.5,0.5 L24.5,311.5" id="Line-Copy-16"></path>
+            <path d="M1.5,0.5 L1.5,311.5" id="Line-Copy-15"></path>
+        </g>
+        <g id="Group-Copy" transform="translate(83.500000, 44.000000)">
+            <g id="Rectangle-5" stroke-width="10">
+                <path stroke="#FFFFFF" d="M94.0062866,5 L5,90.136448 L5,331 L252,331 L252,5 L94.0062866,5 Z"></path>
+                <path stroke="#2879D2" d="M89.9937134,-5 L262,-5 L262,341 L-5,341 L-5,85.863552 L89.9937134,-5 Z"></path>
+            </g>
+            <g id="Path-Copy">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <path stroke="#FFFFFF" stroke-width="20" d="M86,31.4033308 L28.9216641,86 L86,86 L86,31.4033308 Z"></path>
+            </g>
+        </g>
+        <path d="M150.75957,191.224609 L169.275195,191.224609 C178.357226,191.224609 184.50957,197.142578 184.50957,206.224609 C184.50957,215.21875 178.03496,221.107422 168.630663,221.107422 L161.511523,221.107422 L161.511523,233.5 L150.75957,233.5 L150.75957,191.224609 Z M161.511523,199.486328 L161.511523,212.992188 L166.374804,212.992188 C170.945116,212.992188 173.640429,210.648438 173.640429,206.253906 C173.640429,201.800781 170.974413,199.486328 166.433398,199.486328 L161.511523,199.486328 Z M195.277929,191.195312 L213.031836,191.195312 C225.629492,191.195312 232.807226,198.724609 232.807226,211.9375 C232.807226,225.824219 225.746679,233.5 213.031836,233.5 L195.277929,233.5 L195.277929,191.195312 Z M206.029883,199.837891 L206.029883,224.857422 L211.098242,224.857422 C218.070898,224.857422 221.850195,220.521484 221.850195,212.142578 C221.850195,204.261719 217.86582,199.837891 211.098242,199.837891 L206.029883,199.837891 Z M254.41543,233.5 L243.663477,233.5 L243.663477,191.224609 L272.433008,191.224609 L272.433008,199.867188 L254.41543,199.867188 L254.41543,209.505859 L270.763086,209.505859 L270.763086,217.738281 L254.41543,217.738281 L254.41543,233.5 Z" id="PDF" fill="#FFFFFF"></path>
+    </g>
+</svg>
